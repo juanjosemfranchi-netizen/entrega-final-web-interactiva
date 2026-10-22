@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Servidor Rack Dell PowerEdge",
+    "categoria": "Servidores",
+    "precio": 2500,
+    "imagen": "assets/img/Servidor Rack Dell PowerEdge.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Switch Cisco Catalyst 24 Puertos",
+    "categoria": "Redes",
+    "precio": 850,
+    "imagen": "assets/img/Switch Cisco Catalyst 24 Puertos.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Firewall Fortinet FortiGate 60F",
+    "categoria": "Seguridad",
+    "precio": 1200,
+    "imagen": "assets/img/Firewall Fortinet FortiGate 60F.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Access Point Ubiquiti UniFi 6",
+    "categoria": "Redes",
+    "precio": 180,
+    "imagen": "assets/img/Access Point Ubiquiti UniFi 6.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Cámara IP Dahua 4MP Dome",
+    "categoria": "CCTV",
+    "precio": 95,
+    "imagen": "assets/img/Cámara IP Dahua 4MP Dome.jpg"
+  }
+]
